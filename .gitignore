@@ -1,0 +1,5 @@
+.idea/**/*
+Backend/Backend.iml
+Target/**/*
+test/reports/**/*
+test/coverage/**/*
